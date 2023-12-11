@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1 class="big">Hi, {user}!</h1>
+    <h2 style="text-align: center;">Don't you have anything better to do with your life?</h2>
+</body>
+<script>
+    document.querySelector('h1').innerHTML = `Hi, ${location.hash.replace('#', '')}`;
+</script>
+</html>
