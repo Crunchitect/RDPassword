@@ -1,6 +1,6 @@
 # RDPassword
 
-Password that are very secure for bots and regular people. But not from rhythm game nerds that like story games.
+Password that are very secure for bots and regular people. But not from rhythm game nerds that also like story games.
 <video src="showcase.mp4" controls title="Title"></video>
 
 # How to use
